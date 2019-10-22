@@ -4,8 +4,8 @@ import sympy as sp
 #declaramos las variables y arreglos necesarios
 x = sp.Symbol('x')
 i = 0
-a = [1,3,5,7]
-b = [-2,1,2,3]
+a = [0]
+b = [0]
 l = [x]
 den=[1]
 pl = x
